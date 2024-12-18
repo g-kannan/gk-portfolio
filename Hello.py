@@ -52,6 +52,8 @@ def run():
   DEALink='##### Databricks Certified: [Data Engineer Associate](https://scq.io/rqVTqa2)'
   GCALink="##### Google Cloud Certified: [Associate Cloud Engineer](https://www.credential.net/55114231-b1b0-4430-b602-ea78deae5c1d?key=b079ea0eb808fde9a09e9da16ed5d60d7db415926aeb1efcc6e3a6cf76a6a63f)"
   AZDBALink="##### Microsoft Certified: [Azure Database Administrator Associate](https://www.credly.com/badges/5a75c0de-a9b4-49e3-9bba-b26671c16ab0)"
+  DEPLink='##### Databricks Certified: [Data Engineer Professional](https://credentials.databricks.com/349844cb-b0b8-4d39-a946-c711e0581e9d#acc.kuCpEw5V)'
+  st.markdown(DEPLink,unsafe_allow_html=True)
   st.markdown(DEALink,unsafe_allow_html=True)
   st.markdown(GCALink,unsafe_allow_html=True)
   st.markdown(AZDBALink,unsafe_allow_html=True)
